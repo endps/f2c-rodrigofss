@@ -3,5 +3,7 @@
 This packarge return a celsius value converted from a fahrenheit value
 
 ##Usage
-'''javascript
+```javascript
 const f2c = requise('f2c-rodrigofss')
+const tempC = f2c(tempF)
+```
