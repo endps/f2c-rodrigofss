@@ -1,0 +1,23 @@
+{
+  "name": "f2c-rodrigofss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endps/f2c-rodrigofss.git"
+  },
+  "keywords": [
+    "fahrenheit",
+    "celsius"
+  ],
+  "author": "Rodrigo Faria Santos <rodrigo.f.ss@uol.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endps/f2c-rodrigofss/issues"
+  },
+  "homepage": "https://github.com/endps/f2c-rodrigofss#readme"
+}
