@@ -7,6 +7,5 @@ module.exports = function(tempF){
 	tempC -= 32
 	tempC /= 1.8
 
-
 	return tempC.toFixed(2)
 }
