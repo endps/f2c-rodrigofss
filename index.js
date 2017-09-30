@@ -1,3 +1,4 @@
+'use stric'
 //index.js
 module.exports = function(tempF){
 	if(typeof tempF === 'string'){
